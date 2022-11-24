@@ -1,7 +1,7 @@
 --- 
 # TinyTapeout project information
 project:
-  wokwi_id: 341571228858843732        # If using wokwi, set this to your project's ID
+  wokwi_id: 341571228858843732
 #  source_files:        # If using an HDL, set wokwi_id as 0 and uncomment and list your source files here. Source files must be in ./src
 #    - counter.v
 #    - decoder.v
@@ -15,7 +15,7 @@ project:
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
   author:       "youngpines"      # Your name
-  discord:      "youngpines#5259"      # Your discord handle - make sure to include the # part as well
+  discord:      "youngpines#5259"       # Your discord handle - make sure to include the # part as well
   title:        "r2rdac"      # Project title
   description:  "small r2r"      # Short description of what your project does
   how_it_works: "add a resistor ladder on the d flip flop outputs and you get a dac"      # Longer description of how the project works
