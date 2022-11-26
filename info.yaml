@@ -18,7 +18,7 @@ documentation:
   discord:      "youngpines#5259"       # Your discord handle - make sure to include the # part as well
   title:        "r2rdac"      # Project title
   description:  "small r2r"      # Short description of what your project does
-  how_it_works: "add a resistor ladder on the d flip flop outputs and you get a dac. AND gate is removed, pin2 is passthrough"      # Longer description of how the project works
+  how_it_works: "add a resistor ladder on the d flip flop outputs and you get a dac. AND gate is removed, pin2 is a passthrough"      # Longer description of how the project works
   how_to_test:  "attach a r2r ladder and a non-inverting op-amp on the output and you can control the adc output"      # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   external_hw:  "resistors, opamp, and you"      # Describe any external hardware needed
   language:     "wokwi" # other examples include Verilog, Amaranth, VHDL, etc
